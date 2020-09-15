@@ -4,6 +4,8 @@ on:
   schedule:
     # Runs at 12 am KST
     - cron: '00 09 * * *'
+  workflow_dispatch:
+  
 
 jobs:
   update-readme:

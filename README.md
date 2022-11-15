@@ -6,7 +6,7 @@ CTO in ESG-focused fintech Startup
 
 - MLOps, Serverless
 - Python FastAPI
-- RedwoodJS, React-Native
+- RedwoodJS, Flutter
 
 ## ✨ Looking to collaborate on...
 
